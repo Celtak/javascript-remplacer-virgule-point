@@ -3,7 +3,7 @@
 * @param string decimal
 *
 * @return number
-*	return number with point
+* return number with point
 */
 
 function remplacer_virgule_par_point(decimal){
